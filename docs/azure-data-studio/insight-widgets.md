@@ -19,11 +19,11 @@ ms.locfileid: "48039171"
 ---
 # <a name="manage-servers-and-databases-with-insight-widgets-in-includename-sosincludesname-sos-shortmd"></a>Administrar servidores y bases de datos con los widgets de datos en [!INCLUDE[name-sos](../includes/name-sos-short.md)]
 
-Widgets de datos realizar las consultas de Transact-SQL (T-SQL) que se utiliza para supervisar los servidores y bases de datos y convertirlos en visualizaciones muy precisos. 
+Widgets de datos permite ejecutar las consultas de Transact-SQL (T-SQL) que se utilizan para supervisar los servidores y bases de datos y convertirlas en visualizaciones muy precisas. 
 
-Insights son personalizables diagramas y gráficos que agrega al servidor y los paneles de supervisión de la base de datos. Ver información de un vistazo de los servidores y bases de datos, a continuación, profundizar en más detalles e iniciar acciones de administración que defina. 
+Insights son diagramas y gráficos personalizados que se agregan al servidor y los paneles de supervisión de la base de datos. Ver información de un vistazo de los servidores y bases de datos, a continuación, profundizar en más detalles e iniciar acciones de administración que defina. 
 
-Puede crear increíbles servidor y base de datos de administración paneles similares al ejemplo siguiente:
+Puede crear increíbles paneles de administración de servidor y base de datos  similares al ejemplo siguiente:
 
 ![panel de la base de datos](media/insight-widgets/database-dashboard.png)
 
