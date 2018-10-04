@@ -18,7 +18,7 @@ ms.locfileid: "43892920"
 # <a name="extensibility-architecture-in-sql-server-machine-learning-services"></a>Arquitectura de extensibilidad en SQL Server Machine Learning Services 
 [!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md-winonly](../../includes/appliesto-ss-xxxx-xxxx-xxx-md-winonly.md)]
 
-SQL Server tiene un marco de extensibilidad para la ejecución de scripts externos como R o Python en el servidor. Secuencia de comandos se ejecuta en un entorno de tiempo de ejecución de lenguaje como una extensión para el motor de base de datos principal. 
+SQL Server tiene un marco de extensibilidad para la ejecución de scripts externos como R o Python en el servidor. Los scripts se ejecutan como una extensión del motor de SQL Server. 
 
 ## <a name="background"></a>Información previa
 
